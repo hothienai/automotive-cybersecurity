@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cyber Security documentation
+Automotive CyberSecurity documentation
 ============================
 
 Add your content using ``reStructuredText`` syntax. See the
