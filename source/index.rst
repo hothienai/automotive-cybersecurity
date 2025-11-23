@@ -6,12 +6,12 @@
 Automotive CyberSecurity documentation
 ============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+This documentation covers what I’m learning about key concepts and technical details of ``Automotive CyberSecurity``. It serves as a resource for sharing my understanding of Automotive CyberSecurity standards and implementations.
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Terms and Abbreviations
+
+   terms-and-abbreviations
 
